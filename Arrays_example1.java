@@ -2,7 +2,10 @@ package com.app;
 
 import java.util.Arrays;
 
-/** This is a comment added by Swetha */
+/** This is a comment added by Swetha
+@author: Swetha
+
+*/
 
 public class Arrays_example1 {
 	public static void main(String[] args) {
